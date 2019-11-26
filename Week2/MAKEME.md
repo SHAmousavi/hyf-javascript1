@@ -27,7 +27,7 @@ Provide feedback on the Git assignments (week 1) of one of your fellow students.
 
 ## Step 3: **Some freeCodeCamp challenges (10 hours):**
 
-On freeCodeCamp.com please do the [Basic JavaScript](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works) exercises up and until the __"Shopping List"__ exercise (there are some topics we did not cover but you can do it).
+On freeCodeCamp.com please do the [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code) exercises up and until the __"Shopping List"__ exercise (there are some topics we did not cover but you can do it).
 
 ## Step 4: JavaScript
 
