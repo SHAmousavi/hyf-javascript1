@@ -1,4 +1,4 @@
-## Homework Week 3
+﻿## Homework Week 3
 
 ```
 Topics discussed in class this week:
@@ -92,7 +92,7 @@ let favoriteAnimals = ['blowfish', 'capricorn', 'giraffe'];
 2\.3 Now add Jim's favorite animal to the array, it's *'meerkat'*, but make sure it will be placed after *'blowfish'* and before *'capricorn'*.
 
 2\.4 Write a console.log statement that explains in words _you think_ the new value of the array is.
-
+;
 2\.5 Log your new array!
 
 2\.6 Log the length of the array, add a message: *'The array has a length of: '* (here you should show the length of the array).
